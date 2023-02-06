@@ -1,0 +1,60 @@
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.exe
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.deps.json
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.runtimeconfig.json
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.AssemblyReference.cache
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfoInputs.cache
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfo.cs
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\refint\coursApp1.dll
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.genruntimeconfig.cache
+D:\PROGRAMMATION\c#\coursApp1\coursApp1\obj\Debug\net6.0\ref\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.exe
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.deps.json
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.runtimeconfig.json
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.AssemblyReference.cache
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfoInputs.cache
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfo.cs
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\refint\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.genruntimeconfig.cache
+D:\PROGRAMMATION\c# projects\c#\coursApp1\coursApp1\obj\Debug\net6.0\ref\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.exe
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.deps.json
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.runtimeconfig.json
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.AssemblyReference.cache
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfoInputs.cache
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfo.cs
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.CoreCompileInputs.cache
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\refint\coursApp1.dll
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.pdb
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.genruntimeconfig.cache
+D:\PROGRAMMATION\c# projects\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\ref\coursApp1.dll
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.exe
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.deps.json
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.runtimeconfig.json
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.dll
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\bin\Debug\net6.0\coursApp1.pdb
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.AssemblyReference.cache
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfoInputs.cache
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.AssemblyInfo.cs
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.csproj.CoreCompileInputs.cache
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.dll
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\refint\coursApp1.dll
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.pdb
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\coursApp1.genruntimeconfig.cache
+D:\DEV\LANG\CS\c#\console\coursApp1\coursApp1\obj\Debug\net6.0\ref\coursApp1.dll
